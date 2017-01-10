@@ -11,3 +11,5 @@ howdy nr 4
 bonjour from desktop 5
 
 line 7 from testbranch
+
+line 9 master
